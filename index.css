@@ -4,12 +4,14 @@ body {
 }
 
 .hero {
+    font-family: 'Inter';
     background: #6943fe;
     color: white;
     padding: 30px;
 }
 
 .main {
+    font-family: 'Inter';
     background: #f4f4f4;
     padding: 10px;
 }
